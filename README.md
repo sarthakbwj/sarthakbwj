@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Sarthak and I'm self-learning Data Science. 
+I'm Sarthak, currently teaching myself Data Science. 
 
 - 🔭 I’m proficient in Python, NumPy, Pandas 
 - 🌱 I’m currently learning R, SQL and ML
